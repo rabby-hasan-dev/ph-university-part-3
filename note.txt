@@ -1,0 +1,49 @@
+------  video:1 --------
+
+1.buisness logic
+
+-------   video-2 ------
+
+
+---------- video -3 ----------
+
+
+---------- video -4 ----------
+
+
+
+---------- video -5 ----------
+
+
+---------- video -6 ----------
+
+
+---------- video -7 ----------
+
+
+-------video-8 ---------
+1.Populate -----> mongoose
+2. Custom App Error class 
+
+
+
+-------video-9 ---------
+1.taransiction rollBack
+
+-------video-10 ---------
+
+-------video-11 ---------
+
+-------video-12 ---------
+1. logically handle non-premitive field
+2. record  ----> typescript
+3. run validator --- mongoose
+
+
+
+
+
+
+
+
+
